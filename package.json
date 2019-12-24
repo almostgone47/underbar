@@ -1,0 +1,25 @@
+{
+  "name": "hrsf125-underbar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almostgone47/hrsf125-underbar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/almostgone47/hrsf125-underbar/issues"
+  },
+  "homepage": "https://github.com/almostgone47/hrsf125-underbar#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
